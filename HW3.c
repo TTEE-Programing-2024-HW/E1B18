@@ -237,4 +237,5 @@ int main(){
     } while(choice != 'd');
     return 0;
 }
+printf("這次的程式比第二次的更難完成，花了更多的時間去完成，")
 
